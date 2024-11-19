@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asxxmii
 - 👀 I’m interested in Software/Game Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning programming
 - 😄 Pronouns: She/Her
 
 <!---
